@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">G7S21_242_P1P2_fabianDM</string>
+    <string name="ptp1">Bienvenido, ingresa tu nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1bt1">Enviar saludo</string>
+</resources>
